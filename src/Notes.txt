@@ -1,0 +1,16 @@
+Goal:
+    Create a Designing a robust system that allows users to engage in transactions
+    The proposed system is a web-based project that will allow the users to do everything that a bank would do naturally.
+
+
+Implementations:
+    * User can
+        - Choose how many accounts they want
+        - Decide if they want a checking or savings accounts
+        - View current amount
+        - deposit money to the account
+        - move money to different accounts
+        -
+    *
+
+ToDO:
